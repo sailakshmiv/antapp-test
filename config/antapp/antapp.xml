@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestApp name="Cantas">
+	<queryParam name="GET-Cantas" url="AntExample/index.jsp" outputFile="getcantas.txt" />
+	</TestApp>
